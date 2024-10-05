@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 21 Dec 2022 15:10:25 at https://qrowd-html.vercel.app/main-html/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://qrowd-html.vercel.app/main-html/index.html -O1 "C:\My Web Sites\CrowdShaki" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:12:02	Error: 	"Not Found" (404) at link https://qrowd-html.vercel.app/main-html/assets/vendors/owl-carousel/owl.video.play.png (from https://qrowd-html.vercel.app/main-html/assets/vendors/owl-carousel/owl.carousel.min.css)
+15:12:02	Error: 	"Not Found" (404) at link https://qrowd-html.vercel.app/main-html/assets/vendors/images/icon/bx_loader.gif (from https://qrowd-html.vercel.app/main-html/assets/vendors/bxslider/jquery.bxslider.css)
+15:12:02	Error: 	"Not Found" (404) at link https://qrowd-html.vercel.app/main-html/assets/vendors/img/bx-slider/controls.png (from https://qrowd-html.vercel.app/main-html/assets/vendors/bxslider/jquery.bxslider.css)
+15:12:02	Error: 	"Not Found" (404) at link https://qrowd-html.vercel.app/main-html/assets/vendors/vegas/overlays/02.png (from https://qrowd-html.vercel.app/main-html/assets/vendors/vegas/vegas.min.css)
+15:12:02	Error: 	"Not Found" (404) at link https://qrowd-html.vercel.app/main-html/assets/vendors/timepicker/images/ui-icons_444444_256x240.png (from https://qrowd-html.vercel.app/main-html/assets/vendors/timepicker/timePicker.css)
+15:12:02	Error: 	"Not Found" (404) at link https://qrowd-html.vercel.app/main-html/assets/images/brand/brand--1-4.png (from https://qrowd-html.vercel.app/main-html/index-one-page.html)
+15:12:02	Error: 	"Not Found" (404) at link https://qrowd-html.vercel.app/main-html/assets/images/brand/brand--1-5.png (from https://qrowd-html.vercel.app/main-html/index-one-page.html)
+15:12:02	Error: 	"Not Found" (404) at link https://qrowd-html.vercel.app/main-html/event.details.html (from https://qrowd-html.vercel.app/main-html/event-details.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 37 seconds : 320 links scanned, 311 files written (15036579 bytes overall) [10025230 bytes received at 103352 bytes/sec], 7154491 bytes transferred using HTTP compression in 105 files, ratio 27%, 80.0 requests per connection
+(8 errors, 0 warnings, 0 messages)
